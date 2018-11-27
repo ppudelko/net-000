@@ -1,0 +1,5 @@
+plik tektowy do repo net-000
+plik jest tylko wzorcem dso testow
+linia 3
+lina 4
+KONIEC
