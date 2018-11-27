@@ -3,3 +3,5 @@ plik jest tylko wzorcem dso testow
 linia 3
 lina 4
 KONIEC
+
+[pipupl 11:47 27.11.2018] cos teraz dopisuje
