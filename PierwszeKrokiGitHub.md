@@ -1,5 +1,5 @@
 **Dokument opisuje piersze kroki z GitHub'em:** 
-![](/home/pipupl/WSEI/GitHub/20182019/zima/P1/net-000/PNG/WSEI-loggo.png) 
+![](https://github.com/ppudelko/net-000.git/PNG/remarkable.png) 
 
 linki:
 https://www.youtube.com/watch?v=xw4EVrJZjAY - GitHub [PL]
