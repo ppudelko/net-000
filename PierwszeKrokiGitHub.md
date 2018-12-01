@@ -1,5 +1,5 @@
 **Dokument opisuje piersze kroki z GitHub'em:** 
-![](https://github.com/ppudelko/net-000.git/PNG/remarkable.png) 
+![](https://github.com/ppudelko/net-000/tree/master/PNG/remarkable.png) 
 
 [pp sobota, 01. grudnia 2018 06:40] 
 
