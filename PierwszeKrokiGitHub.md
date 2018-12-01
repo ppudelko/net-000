@@ -1,6 +1,9 @@
 **Dokument opisuje piersze kroki z GitHub'em:** 
 ![](https://github.com/ppudelko/net-000.git/PNG/remarkable.png) 
 
+[pp sobota, 01. grudnia 2018 06:40] 
+
+
 linki:
 https://www.youtube.com/watch?v=xw4EVrJZjAY - GitHub [PL]
 http://www.codebind.com/linux-tutorials/basic-git-commands-list/ - tutorial GitHub [EN]
